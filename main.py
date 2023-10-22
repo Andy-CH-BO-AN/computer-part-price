@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-client = MongoClient("mongodb+srv://digbick:digbick@cluster0dot0.ym7ee.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("")
 
 id = '_id'
 
